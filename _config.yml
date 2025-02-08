@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Allen Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "phd student"
+  location         : "Bristol,UK"
+  employer         : "University of Bristol"
+  uri              : "https://www.bristol.ac.uk/" # URL
+  email            : "on23019@bristol.ac.uk" 
 
   # Academic websites
  # arxiv            : # URL - Update with the correct link to your profile

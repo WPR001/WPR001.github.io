@@ -12,5 +12,5 @@ I'm a computer science phd student from [VILab](https://vilab.blogs.bristol.ac.u
 I am very fortunate to be advised by [Prof. shawn](https://shawnshenjx.github.io/) from [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/), University of Bristol.
 
 
-[Email](mailto:on23019@bristol.ac.uk) / [Github](https://github.com/WPR001)
+
 

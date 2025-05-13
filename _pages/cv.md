@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, University of Bristol, 2028 (expected)
+* MSc in Image and Video Communication Signal Processing, University of Bristol, 2024
+* BEng in Electronic Information Engineering, South China Agricultural University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025: OpenInterX
+  * Research Intern
+  * Duties includes: MLLM Post-train
+  * Supervisor: Shawn
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024: Toshiba Research
+  * Research Intern
+  * Duties includes: VLN
+  * Supervisor: Marius Jurt
   
 Skills
 ======

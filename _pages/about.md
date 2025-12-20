@@ -24,19 +24,19 @@ My main research interests include video understanding and MLLM.
 
 ## 📚 Publications
 
-PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications (WACV 2026)
+- PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications (WACV 2026)
 
-MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding (Arxiv)
+- MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding (Arxiv)
 
-UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks (Arxiv)
+- UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks (Arxiv)
 
-VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining (Arxiv)
+- VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining (Arxiv)
 
-St-think: How multimodal large language models reason about 4d worlds from ego-centric videos (WACV 2026)
+- St-think: How multimodal large language models reason about 4d worlds from ego-centric videos (WACV 2026)
 
-Fmbench: Benchmarking fairness in multimodal large language models on medical tasks (Arxiv)
+- Fmbench: Benchmarking fairness in multimodal large language models on medical tasks (Arxiv)
 
-Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow (MICCAI 2025)
+- Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow (MICCAI 2025)
 
 
 

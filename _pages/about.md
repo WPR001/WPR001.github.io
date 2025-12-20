@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in thethe [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. shawn](https://shawnshenjx.github.io/).
+I am a second-year PhD student in thethe [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. shawn](https://shawnshenjx.github.io/).
 
 My main research interests include video understanding and MLLM.
 
 ---
 
 ## 📢 News
-
-- **Jun 2025**: My paper _"Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow"_ was accepted at MICCAI 2025!
+- **Oct 2025**: Two paper was accepted at WACV 2026!
+- **Jun 2025**: One paper was accepted at MICCAI 2025!
 - **May 2025**: Joined the [Memories.ai Research](https://memories.ai/) as a AI Research Scientist!
 
 - **Nov 2024**: 🎓 Joined the VI Lab at Bristol as a PhD student!
@@ -24,31 +24,20 @@ My main research interests include video understanding and MLLM.
 
 ## 📚 Publications
 
-### 🎥 MLLM
+PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications (WACV 2026)
 
-- **[MIRAGE (Preprint 2025)](https://arxiv.org/abs/2505.10604)**  
+MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding (Arxiv)
 
-  [Code](#) | [Data](#)
+UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks (Arxiv)
 
-- **[ST-Think (Preprint 2025)](https://arxiv.org/abs/2503.12542)**  
+VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining (Arxiv)
 
-  [Code](#) | [Data](#)
+St-think: How multimodal large language models reason about 4d worlds from ego-centric videos (WACV 2026)
 
-- **[FMBench (Preprint 2024)](https://arxiv.org/abs/2410.01089)**  
+Fmbench: Benchmarking fairness in multimodal large language models on medical tasks (Arxiv)
 
-  [Code](#) | [Data](#)
+Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow (MICCAI 2025)
 
-
-
-### 🎥 Computer Vision
-
-- **[Motion-Boundary-Driven (MICCAI 2025)](https://arxiv.org/abs/2403.10039)**  
-
-  [Code](#) | [Data](#)
-
-- **[VideoMAP (Preprint 2025)](https://arxiv.org/abs/2503.12332)**  
-
-  [Code](#) | [Data](#)
 
 
 ---

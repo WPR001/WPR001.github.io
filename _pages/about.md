@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in thethe [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. shawn](https://shawnshenjx.github.io/).
+I am a second-year PhD student in the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. shawn](https://shawnshenjx.github.io/).
 
 My main research interests include video understanding and MLLM.
 

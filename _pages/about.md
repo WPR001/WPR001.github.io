@@ -14,6 +14,7 @@ My main research interests include video understanding and MLLM.
 ---
 
 ## 📢 News
+- **Jan 2026**: One paper was accepted at ICLR 2026!
 - **Oct 2025**: Two paper was accepted at WACV 2026!
 - **Jun 2025**: One paper was accepted at MICCAI 2025!
 - **May 2025**: Joined the [Memories.ai Research](https://memories.ai/) as a AI Research Scientist!
@@ -26,7 +27,7 @@ My main research interests include video understanding and MLLM.
 
 - PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications (WACV 2026)
 
-- MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding (Arxiv)
+- MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding (ICLR 2026)
 
 - UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks (Arxiv)
 

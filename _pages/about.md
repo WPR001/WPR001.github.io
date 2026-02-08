@@ -52,19 +52,19 @@ My research focuses on **video understanding**, **multimodal large language mode
 ---
 
 ### Preprints
-(arXiv 2025) 
+
 **UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**  
 ***Peiran Wu**, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen*   
 [arXiv](https://arxiv.org/abs/2507.11336) | [Code](https://github.com/WPR001/UGC_VideoCaptioner) | [Dataset](https://huggingface.co/collections/Memories-ai/ugc-videocap)
 
 ---
-(arXiv 2025) 
+
 **VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining**  
 *Yunze Liu, **Peiran Wu**, Cheng Liang, Junxiao Shen, Limin Wang, Li Yi*  
 [arXiv](https://arxiv.org/abs/2503.12332) | [Code](#)
 
 ---
-(arXiv 2025) 
+
 **FM-Bench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks**  
 ***Peiran Wu**, Che Liu, Canyu Chen, Jun Li, Cosmin I Bercea, Rossella Arcucci*   
 [arXiv](https://arxiv.org/abs/2410.01089) | [Code](#)

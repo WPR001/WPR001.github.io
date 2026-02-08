@@ -35,14 +35,14 @@ My research focuses on **video understanding**, **multimodal large language mode
 ---
 
 **MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
-* **Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
+**Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
 **ICLR 2026**  
 [Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/Gimlettt/MARC) | [Project](https://yunzeliu.github.io/MARC/)
 
 ---
 
 **St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos**  
-* **Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
+**Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
 **WACV 2026**  
 [Paper](https://arxiv.org/abs/2503.12542) | [Code](https://github.com/WPR001/Ego-ST)
 
@@ -58,7 +58,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 ### Preprints
 
 **UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**  
-Peiran Wu, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen
 ***Peiran Wu**, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen*  
 **arXiv 2025**  
 [arXiv](https://arxiv.org/abs/2507.11336) | [Code](https://github.com/WPR001/UGC_VideoCaptioner) | [Dataset](https://huggingface.co/collections/Memories-ai/ugc-videocap)

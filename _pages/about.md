@@ -30,7 +30,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
 *Yunze Liu, Zifan Wang, **Peiran Wu**, Jiayang Ao*  
 (WACV 2026) 
-
 [Paper](https://arxiv.org/abs/2512.01383) | [Code](#) | [Project](#)
 
 ---
@@ -38,7 +37,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
 **Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
 (ICLR 2026)  
-
 [Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/Gimlettt/MARC) | [Project](https://yunzeliu.github.io/MARC/)
 
 ---
@@ -46,7 +44,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos**  
 **Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
 (WACV 2026) 
-
 [Paper](https://arxiv.org/abs/2503.12542) | [Code](https://github.com/WPR001/Ego-ST)
 
 ---
@@ -54,7 +51,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow**  
 *Yang Liu, **Peiran Wu**, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin*  
 (MICCAI 2025)  
-
 [Paper](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_36) | [Code](#)
 
 ---
@@ -64,7 +60,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**  
 ***Peiran Wu**, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen*  
 (arXiv 2025)  
-
 [arXiv](https://arxiv.org/abs/2507.11336) | [Code](https://github.com/WPR001/UGC_VideoCaptioner) | [Dataset](https://huggingface.co/collections/Memories-ai/ugc-videocap)
 
 ---
@@ -72,7 +67,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining**  
 *Yunze Liu, **Peiran Wu**, Cheng Liang, Junxiao Shen, Limin Wang, Li Yi*  
 (arXiv 2025) 
-
 [arXiv](https://arxiv.org/abs/2503.12332) | [Code](#)
 
 ---
@@ -80,7 +74,6 @@ My research focuses on **video understanding**, **multimodal large language mode
 **FM-Bench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks**  
 ***Peiran Wu**, Che Liu, Canyu Chen, Jun Li, Cosmin I Bercea, Rossella Arcucci*  
 (arXiv 2025)  
-
 [arXiv](https://arxiv.org/abs/2410.01089) | [Code](#)
 
 ---

@@ -34,13 +34,13 @@ My research focuses on **video understanding**, **multimodal large language mode
 ---
 
 (ICLR 2026) **MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
-**Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
+***Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
 [Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/Gimlettt/MARC) | [Project](https://yunzeliu.github.io/MARC/)
 
 ---
  
 (WACV 2026)**St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos**  
-**Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
+***Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
 [Paper](https://arxiv.org/abs/2503.12542) | [Code](https://github.com/WPR001/Ego-ST)
 
 ---

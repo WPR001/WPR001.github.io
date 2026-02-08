@@ -7,56 +7,98 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. shawn](https://shawnshenjx.github.io/).
+I am a second-year PhD student at the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. Shawn Shen](https://shawnshenjx.github.io/).
 
-My main research interests include video understanding and MLLM.
+My research focuses on **video understanding**, **multimodal large language models (MLLMs)**, and **efficient multimodal reasoning**.
 
 ---
 
 ## 📢 News
-- **Jan 2026**: One paper was accepted at ICLR 2026!
-- **Oct 2025**: Two paper was accepted at WACV 2026!
-- **Jun 2025**: One paper was accepted at MICCAI 2025!
-- **May 2025**: Joined the [Memories.ai Research](https://memories.ai/) as a AI Research Scientist!
 
-- **Nov 2024**: 🎓 Joined the VI Lab at Bristol as a PhD student!
+- **Jan 2026** — One paper accepted at **ICLR 2026**
+- **Oct 2025** — Two papers accepted at **WACV 2026**
+- **Jun 2025** — One paper accepted at **MICCAI 2025**
+- **May 2025** — Joined [Memories.ai Research](https://memories.ai/) as an **AI Research Scientist**
+- **Nov 2024** — 🎓 Joined the VI Lab at Bristol as a PhD student
 
 ---
 
 ## 📚 Publications
 
-- PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications (WACV 2026)
+### 2026
 
-- MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding (ICLR 2026)
-
-- UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks (Arxiv)
-
-- VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining (Arxiv)
-
-- St-think: How multimodal large language models reason about 4d worlds from ego-centric videos (WACV 2026)
-
-- Fmbench: Benchmarking fairness in multimodal large language models on medical tasks (Arxiv)
-
-- Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow (MICCAI 2025)
-
-
+**PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
+*Yunze Liu, Zifan Wang, **Peiran Wu**, Jiayang Ao*  
+**WACV 2026**  
+[Paper](https://arxiv.org/abs/2512.01383) | [Code](#) | [Project](#)
 
 ---
 
+**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
+* **Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
+**ICLR 2026**  
+[Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/Gimlettt/MARC) | [Project](https://yunzeliu.github.io/MARC/)
+
+---
+
+**St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos**  
+* **Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
+**WACV 2026**  
+[Paper](https://arxiv.org/abs/2503.12542) | [Code](https://github.com/WPR001/Ego-ST)
+
+---
+
+**Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow**  
+*Yang Liu, **Peiran Wu**, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin*  
+**MICCAI 2025**  
+[Paper](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_36) | [Code](#)
+
+---
+
+### Preprints
+
+**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**  
+Peiran Wu, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen
+***Peiran Wu**, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen*  
+**arXiv 2025**  
+[arXiv](https://arxiv.org/abs/2507.11336) | [Code](https://github.com/WPR001/UGC_VideoCaptioner) | [Dataset](https://huggingface.co/collections/Memories-ai/ugc-videocap)
+
+---
+
+**VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining**  
+*Yunze Liu, **Peiran Wu**, Cheng Liang, Junxiao Shen, Limin Wang, Li Yi*  
+**arXiv 2025**  
+[arXiv](https://arxiv.org/abs/2503.12332) | [Code](#)
+
+---
+
+**FM-Bench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks**  
+***Peiran Wu**, Che Liu, Canyu Chen, Jun Li, Cosmin I Bercea, Rossella Arcucci*  
+**arXiv 2025**  
+[arXiv](https://arxiv.org/abs/2410.01089) | [Code](#)
+
+---
+
+
 ## 🎓 Education
 
-- **Oct 2024 – Present**  
-  PhD in Computer Science, University of Bristol, UK
+**University of Bristol, UK**  
+PhD in Computer Science  
+*Oct 2024 – Present*
 
 ---
 
 ## 💼 Experience
 
-- **May 2025 – Present**  
-  AI Research Scientist, Memories.ai Research, USA
-- **Jun 2024 – Sep 2024**  
-  Research Intern, Toshiba Research Europe Limited, UK
+**Memories.ai Research, USA**  
+AI Research Scientist(Part-time)  
+*May 2025 – Present*
 
+**Toshiba Research Europe Limited, UK**  
+Research Intern  
+*Jun 2024 – Sep 2024*
+
+---
 
 
 

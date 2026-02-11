@@ -27,25 +27,25 @@ My research focuses on **video understanding**, **multimodal large language mode
 
 ### 2026
 
-(WACV 2026)**PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
+<span style="color:green">(WACV 2026)</span> **PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
 *Yunze Liu, Zifan Wang, **Peiran Wu**, Jiayang Ao*  
 [Paper](https://arxiv.org/abs/2512.01383) | [Code](#) | [Project](#)
 
 ---
 
-(ICLR 2026) **MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
+<span style="color:green">(ICLR 2026)</span> **MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
 ***Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
 [Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/Gimlettt/MARC) | [Project](https://yunzeliu.github.io/MARC/)
 
 ---
  
-(WACV 2026)**St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos**  
+<span style="color:green">(WACV 2026)</span> **St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos**  
 ***Peiran Wu**, Yunze Liu, Miao Liu, Junxiao Shen*  
 [Paper](https://arxiv.org/abs/2503.12542) | [Code](https://github.com/WPR001/Ego-ST)
 
 ---
   
-(MICCAI 2025)**Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow**  
+<span style="color:green">(MICCAI 2025)</span> **Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow**  
 *Yang Liu, **Peiran Wu**, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin*  
 [Paper](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_36) | [Code](#)
 

@@ -26,10 +26,8 @@ My research focuses on **video understanding**, **multimodal large language mode
 ## 📚 Publications
 
 ### 2026
-<span style="background:#dcfce7;color:#166534;padding:2px 8px;border-radius:999px;font-weight:600;font-size:0.9em;">
-WACV 2026
-</span>
-**PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
+
+(WACV 2026)**PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
 *Yunze Liu, Zifan Wang, **Peiran Wu**, Jiayang Ao*  
 [Paper](https://arxiv.org/abs/2512.01383) | [Code](#) | [Project](#)
 

@@ -27,6 +27,12 @@ My research focuses on **video understanding**, **multimodal large language mode
 
 ### 2026
 
+
+**O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding**  
+*Peiran Wu,Yunze Liu,Chi-Hao Wu,Chen Chen,Junxiao Shen*  
+[Paper](https://arxiv.org/pdf/2605.26584) | [Code](#) | [Project](#)
+
+
 <span style="color:green">(WACV 2026)</span> **PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
 *Yunze Liu, Zifan Wang, **Peiran Wu**, Jiayang Ao*  
 [Paper](https://arxiv.org/abs/2512.01383) | [Code](#) | [Project](#)

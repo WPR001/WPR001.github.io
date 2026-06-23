@@ -30,7 +30,7 @@ My research focuses on **video understanding**, **multimodal large language mode
 
 **O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding**  
 *Peiran Wu,Yunze Liu,Chi-Hao Wu,Chen Chen,Junxiao Shen*  
-[Paper](https://arxiv.org/pdf/2605.26584) | [Code](#) | [Project](#)
+[Paper](https://arxiv.org/pdf/2605.26584) | [Code](https://github.com/WPR001/Omni_marc) | [Project](https://github.com/WPR001/Omni_marc)
 
 
 <span style="color:green">(WACV 2026)</span> **PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**  
@@ -41,7 +41,7 @@ My research focuses on **video understanding**, **multimodal large language mode
 
 <span style="color:green">(ICLR 2026)</span> **MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**  
 ***Peiran Wu**, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen*  
-[Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/Gimlettt/MARC) | [Project](https://yunzeliu.github.io/MARC/)
+[Paper](https://arxiv.org/abs/2510.07915) | [Code](https://github.com/WPR001/Omni_marc) | [Project](https://yunzeliu.github.io/MARC/)
 
 ---
  

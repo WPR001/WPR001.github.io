@@ -1,0 +1,79 @@
+# Only add links that are available. Missing code/project links are omitted.
+- title: "O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding"
+  authors: [Peiran Wu, Yunze Liu, Chi-Hao Wu, Chen Chen, Junxiao Shen]
+  year: 2026
+  venue: Preprint
+  category: preprint
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2605.26584
+    - label: Code
+      url: https://github.com/WPR001/Omni_marc
+    - label: Project
+      url: https://github.com/WPR001/Omni_marc
+- title: "MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding"
+  authors: [Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen]
+  year: 2026
+  venue: ICLR 2026
+  category: conference
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2510.07915
+    - label: Code
+      url: https://github.com/WPR001/Omni_marc
+    - label: Project
+      url: https://yunzeliu.github.io/MARC/
+- title: "PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications"
+  authors: [Yunze Liu, Zifan Wang, Peiran Wu, Jiayang Ao]
+  year: 2026
+  venue: WACV 2026
+  category: conference
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2512.01383
+- title: "St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos"
+  authors: [Peiran Wu, Yunze Liu, Miao Liu, Junxiao Shen]
+  year: 2026
+  venue: WACV 2026
+  category: conference
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2503.12542
+    - label: Code
+      url: https://github.com/WPR001/Ego-ST
+- title: "Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow"
+  authors: [Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin]
+  year: 2025
+  venue: MICCAI 2025
+  category: conference
+  links:
+    - label: Paper
+      url: https://link.springer.com/chapter/10.1007/978-3-032-05114-1_36
+- title: "UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks"
+  authors: [Peiran Wu, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen]
+  year: 2025
+  venue: Preprint
+  category: preprint
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2507.11336
+    - label: Code
+      url: https://github.com/WPR001/UGC_VideoCaptioner
+    - label: Dataset
+      url: https://huggingface.co/collections/Memories-ai/ugc-videocap
+- title: "VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining"
+  authors: [Yunze Liu, Peiran Wu, Cheng Liang, Junxiao Shen, Limin Wang, Li Yi]
+  year: 2025
+  venue: Preprint
+  category: preprint
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2503.12332
+- title: "FM-Bench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks"
+  authors: [Peiran Wu, Che Liu, Canyu Chen, Jun Li, Cosmin I Bercea, Rossella Arcucci]
+  year: 2024
+  venue: Preprint
+  category: preprint
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2410.01089

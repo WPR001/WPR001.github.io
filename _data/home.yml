@@ -1,0 +1,56 @@
+# Homepage content. Dates are maintained here rather than in the layout.
+current_role:
+  company: Ant Group
+  role: Research Intern
+  since: Oct 2026
+
+interests:
+  - Video understanding
+  - Multimodal LLMs
+  - Efficient reasoning
+
+news:
+  - date: Oct 2026
+    datetime: "2026-10"
+    text: "Joined <strong>Ant Group</strong> as a Research Intern."
+    latest: true
+  - date: Jan 2026
+    datetime: "2026-01"
+    text: "One paper accepted at <strong>ICLR 2026</strong>."
+  - date: Oct 2025
+    datetime: "2025-10"
+    text: "Two papers accepted at <strong>WACV 2026</strong>."
+  - date: Jun 2025
+    datetime: "2025-06"
+    text: "One paper accepted at <strong>MICCAI 2025</strong>."
+  - date: May 2025
+    datetime: "2025-05"
+    text: 'Joined <a href="https://memories.ai/">Memories.ai Research</a> as an AI Research Scientist.'
+  - date: Nov 2024
+    datetime: "2024-11"
+    text: "Joined the VI Lab at Bristol as a PhD student."
+
+experience:
+  - company: Ant Group
+    role: Research Intern
+    period: Oct 2026 — Present
+    monogram: A
+    current: true
+  - company: Memories.ai Research
+    role: AI Research Scientist · Part-time
+    period: May 2025 — Oct 2026
+    location: USA
+    monogram: M
+  - company: Toshiba Research Europe
+    role: Research Intern
+    period: Jun 2024 — Sep 2024
+    location: UK
+    monogram: T
+
+education:
+  university: University of Bristol
+  degree: PhD in Computer Science
+  period: Oct 2024 — Present
+  location: United Kingdom
+  advisor: Prof. Shawn Shen
+  advisor_url: https://shawnshenjx.github.io/

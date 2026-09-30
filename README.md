@@ -1,3 +1,19 @@
+# Peiran Wu — Personal Website
+
+The homepage uses a custom responsive layout on the existing Jekyll / GitHub Pages site.
+
+To update the homepage:
+
+- `_pages/about.md`: introduction and page description.
+- `_data/home.yml`: current position, news, experience, education, and research interests.
+- `_data/research.yml`: publications, author lists, venues, and available links. Use `conference` or `preprint` for the publication category; omit unavailable links.
+- `_config.yml`: email, Google Scholar, GitHub username, and LinkedIn username.
+- `_layouts/home.html`, `assets/css/home.css`, `assets/js/home.js`: layout, styling, and publication filtering.
+
+Preview using `bundle install` followed by `bundle exec jekyll serve`. The homepage does not need an npm build. All publications remain readable without JavaScript.
+
+The original Academic Pages documentation follows.
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 

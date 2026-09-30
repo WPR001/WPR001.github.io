@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Peiran Wu"
 title_separator          : "-"
 name                     : &name "Peiran Wu"
-description              : &description "phd student"
-url                      : https://wpr001.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "PhD student at the University of Bristol and Research Intern at Ant Group. Video understanding, multimodal LLMs, and efficient reasoning."
+url                      : https://wpr001.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "WPR001/WPR001.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.png"
-  name             : "Allen Wu"
+  name             : "Peiran (Allen) Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Phd Student in Computer Science"
-  location         : "Bristol,UK"
+  bio              : "PhD Student · Research Intern at Ant Group"
+  location         : "Bristol, UK"
   employer         : "University of Bristol"
   uri              : "https://www.bristol.ac.uk/" # URL
   email            : "on23019@bristol.ac.uk" 
@@ -45,7 +45,7 @@ author:
  # bitbucket        : # Username - Update with your username on the site
  # codepen          : # Username
  # dribbble         : # Username
- # github           : "academicpages"
+  github           : "WPR001"
   kaggle           : # Username  
  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
  # goodreads        : # Username
  # google_plus      : # Username
 
-  linkedin         : "www.linkedin.com/in/peiran-wu"
+  linkedin         : "peiran-wu"
 
 
 # Publication Category - The following the list of publication categories and their headings

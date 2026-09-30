@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. Shawn Shen](https://shawnshenjx.github.io/).
+I am a third-year PhD student at the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Prof. Shawn Shen](https://shawnshenjx.github.io/).
 
 My research focuses on **video understanding**, **multimodal large language models (MLLMs)**, and **efficient multimodal reasoning**.
+
 
 ---
 
@@ -87,10 +88,13 @@ PhD in Computer Science
 ---
 
 ## 💼 Experience
+**Ant Group**
+Research Intern
+*Oct 2026 – Present*
 
 **Memories.ai Research, USA**  
 AI Research Scientist(Part-time)  
-*May 2025 – Present*
+*May 2025 – Oct 2026*
 
 **Toshiba Research Europe Limited, UK**  
 Research Intern  

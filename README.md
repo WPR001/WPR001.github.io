@@ -7,6 +7,7 @@ To update the homepage:
 - `_pages/about.md`: introduction and page description.
 - `_data/home.yml`: current position, news, experience, education, and research interests.
 - `_data/research.yml`: publications, author lists, venues, and available links. Use `conference` or `preprint` for the publication category; omit unavailable links.
+- `images/publications/`: figure screenshots (`.png`) and lightweight list previews (`.webp`). Each publication's `figure` entry records the figure number, PDF page, versioned source URL, caption, and alternative text. Click a preview to enlarge it; without JavaScript the link opens the PNG directly. The surgical segmentation figure comes from the authors' public preprint.
 - `_config.yml`: email, Google Scholar, GitHub username, and LinkedIn username.
 - `_layouts/home.html`, `assets/css/home.css`, `assets/js/home.js`: layout, styling, and publication filtering.
 

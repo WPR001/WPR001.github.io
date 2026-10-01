@@ -1,5 +1,15 @@
 # Only add links that are available. Missing code/project links are omitted.
 - title: "O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding"
+  figure:
+    name: O-MARC
+    file: omarc-method
+    number: 3
+    page: 6
+    width: 900
+    height: 409
+    label: Compression distillation
+    alt: "O-MARC framework showing full-token teacher and compressed student rollouts, reward comparison, and advantage shaping."
+    source: https://arxiv.org/pdf/2605.26584v1#page=6
   authors: [Peiran Wu, Yunze Liu, Chi-Hao Wu, Chen Chen, Junxiao Shen]
   year: 2026
   venue: Preprint
@@ -12,6 +22,16 @@
     - label: Project
       url: https://github.com/WPR001/Omni_marc
 - title: "MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding"
+  figure:
+    name: MARC
+    file: marc-method
+    number: 1
+    page: 5
+    width: 900
+    height: 743
+    label: Visual memory compression and C-GRPO distillation
+    alt: "MARC framework connecting visual memory retrieval and token compression with C-GRPO distillation."
+    source: https://arxiv.org/pdf/2510.07915v3#page=5
   authors: [Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen]
   year: 2026
   venue: ICLR 2026
@@ -24,6 +44,16 @@
     - label: Project
       url: https://yunzeliu.github.io/MARC/
 - title: "PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications"
+  figure:
+    name: PointNet4D
+    file: pointnet4d-method
+    number: 2
+    page: 5
+    width: 900
+    height: 242
+    label: PointNet4D architecture and 4DMAP pretraining
+    alt: "PointNet4D hybrid network with PointNet++, Mamba, Transformer, and MLP modules alongside the masked pretraining pipeline."
+    source: https://arxiv.org/pdf/2512.01383v1#page=5
   authors: [Yunze Liu, Zifan Wang, Peiran Wu, Jiayang Ao]
   year: 2026
   venue: WACV 2026
@@ -32,6 +62,16 @@
     - label: Paper
       url: https://arxiv.org/abs/2512.01383
 - title: "St-Think: How Multimodal Large Language Models Reason About 4D Worlds from Egocentric Videos"
+  figure:
+    name: St-Think
+    file: st-think-method
+    number: 5
+    page: 7
+    width: 900
+    height: 420
+    label: Spatial-temporal reasoning training
+    alt: "St-Think training pipeline showing chain-of-thought data preparation, supervised fine-tuning, and GRPO training."
+    source: https://arxiv.org/pdf/2503.12542v2#page=7
   authors: [Peiran Wu, Yunze Liu, Miao Liu, Junxiao Shen]
   year: 2026
   venue: WACV 2026
@@ -42,6 +82,17 @@
     - label: Code
       url: https://github.com/WPR001/Ego-ST
 - title: "Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow"
+  figure:
+    name: Motion-boundary-driven segmentation
+    file: surgical-segmentation-method
+    number: 2
+    page: 3
+    width: 900
+    height: 477
+    label: Motion-guided segmentation framework
+    alt: "Unsupervised surgical segmentation framework with a motion estimator, HQAM and LQCD supervision modules, and segmentation and motion heads."
+    source: https://arxiv.org/pdf/2403.10039v2#page=3
+    source_note: Author preprint
   authors: [Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin]
   year: 2025
   venue: MICCAI 2025
@@ -50,6 +101,16 @@
     - label: Paper
       url: https://link.springer.com/chapter/10.1007/978-3-032-05114-1_36
 - title: "UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks"
+  figure:
+    name: UGC-VideoCaptioner
+    file: ugc-videocaptioner-method
+    number: 3
+    page: 7
+    width: 900
+    height: 328
+    label: Distillation and reinforcement learning
+    alt: "UGC-VideoCaptioner framework showing teacher-student distillation followed by reward-guided reinforcement learning for video captioning."
+    source: https://arxiv.org/pdf/2507.11336v2#page=7
   authors: [Peiran Wu, Yunze Liu, Zhengdong Zhu, Enmin Zhou, Junxiao Shen]
   year: 2025
   venue: Preprint
@@ -62,6 +123,16 @@
     - label: Dataset
       url: https://huggingface.co/collections/Memories-ai/ugc-videocap
 - title: "VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining"
+  figure:
+    name: VideoMAP
+    file: videomap-method
+    number: 2
+    page: 4
+    width: 900
+    height: 397
+    label: Masked autoregressive video pretraining
+    alt: "VideoMAP pretraining pipeline linking the hybrid video backbone, CLIP teacher, token alignment, and autoregressive decoder."
+    source: https://arxiv.org/pdf/2503.12332v1#page=4
   authors: [Yunze Liu, Peiran Wu, Cheng Liang, Junxiao Shen, Limin Wang, Li Yi]
   year: 2025
   venue: Preprint
@@ -70,6 +141,16 @@
     - label: arXiv
       url: https://arxiv.org/abs/2503.12332
 - title: "FM-Bench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks"
+  figure:
+    name: FM-Bench
+    file: fm-bench-method
+    number: 1
+    page: 4
+    width: 900
+    height: 519
+    label: Benchmark construction and evaluation
+    alt: "FM-Bench overview showing image and clinical report inputs, generated question-answer pairs, visual question answering, and medical report generation."
+    source: https://arxiv.org/pdf/2410.01089v1#page=4
   authors: [Peiran Wu, Che Liu, Canyu Chen, Jun Li, Cosmin I Bercea, Rossella Arcucci]
   year: 2024
   venue: Preprint

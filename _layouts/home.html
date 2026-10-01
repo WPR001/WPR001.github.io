@@ -103,9 +103,19 @@
         <p class="sr-only" id="publication-status" role="status" aria-live="polite"></p>
         <div class="publication-list" id="publication-list">
           {% for paper in site.data.research %}
-          <article class="publication" data-category="{{ paper.category }}" aria-labelledby="paper-{{ forloop.index }}">
-            <div class="publication-meta"><span class="publication-year">{{ paper.year }}</span><span class="venue {% if paper.category == 'conference' %}venue-conference{% endif %}">{{ paper.venue }}</span></div>
+          <article class="publication{% if paper.figure %} has-figure{% endif %}" data-category="{{ paper.category }}" aria-labelledby="paper-{{ forloop.index }}">
+            {% if paper.figure %}
+            {% assign figure_path = '/images/publications/' | append: paper.figure.file %}
+            <figure class="publication-figure">
+              <a class="figure-preview" href="{{ figure_path | append: '.png' | relative_url }}" data-title="{{ paper.figure.name | escape }}" data-caption="Figure {{ paper.figure.number }} · {{ paper.figure.label | escape }}" data-source="{{ paper.figure.source | escape }}" data-source-note="{{ paper.figure.source_note | default: 'Original paper' | escape }} · page {{ paper.figure.page }}" aria-label="Enlarge figure {{ paper.figure.number }} from {{ paper.figure.name | escape }}">
+                <img src="{{ figure_path | append: '.webp' | relative_url }}" alt="{{ paper.figure.alt | escape }}" width="{{ paper.figure.width }}" height="{{ paper.figure.height }}" loading="lazy" decoding="async">
+                <span class="figure-expand" aria-hidden="true">View figure {% include home-icon.html name='expand' %}</span>
+              </a>
+              <figcaption><span>Fig. {{ paper.figure.number }}{% if paper.figure.source_note %} · {{ paper.figure.source_note }}{% endif %}</span><a href="{{ paper.figure.source }}" aria-label="Figure {{ paper.figure.number }} source for {{ paper.figure.name | escape }}, PDF page {{ paper.figure.page }}">Source {% include home-icon.html name='arrow' %}</a></figcaption>
+            </figure>
+            {% endif %}
             <div class="publication-body">
+              <div class="publication-meta"><span class="publication-year">{{ paper.year }}</span><span class="venue {% if paper.category == 'conference' %}venue-conference{% endif %}">{{ paper.venue }}</span></div>
               <h3 id="paper-{{ forloop.index }}"><a href="{{ paper.links.first.url }}">{{ paper.title | escape }}</a></h3>
               <p class="authors">{% for author in paper.authors %}{% if author == 'Peiran Wu' %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
               <div class="paper-links" aria-label="Links for {{ paper.title | escape }}">
@@ -148,6 +158,15 @@
         <div class="contact-links"><a class="contact-email" href="mailto:{{ site.author.email }}">{{ site.author.email }} {% include home-icon.html name='arrow' %}</a><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">Find me on LinkedIn {% include home-icon.html name='arrow' %}</a></div>
       </section>
     </main>
+
+    <dialog class="figure-dialog" aria-labelledby="figure-dialog-title" aria-describedby="figure-dialog-caption">
+      <div class="figure-dialog-header">
+        <div><p class="eyebrow">A closer look</p><h2 id="figure-dialog-title"></h2></div>
+        <button type="button" class="figure-dialog-close" aria-label="Close figure">{% include home-icon.html name='close' %}</button>
+      </div>
+      <div class="figure-dialog-canvas"><img id="figure-dialog-image" alt=""></div>
+      <div class="figure-dialog-footer"><p id="figure-dialog-caption"></p><div class="figure-dialog-links"><a id="figure-dialog-original" class="text-link">Full resolution {% include home-icon.html name='arrow' %}</a><a id="figure-dialog-source" class="text-link">View in paper {% include home-icon.html name='arrow' %}</a></div></div>
+    </dialog>
 
     <footer class="site-footer container">
       <p>© {{ site.time | date: '%Y' }} Peiran Wu <span>·</span> Built with curiosity.</p>

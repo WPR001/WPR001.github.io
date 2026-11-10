@@ -4,16 +4,21 @@ current_role:
   role: Research Intern
   since: Oct 2026
 
+tagline: "I teach multimodal models to understand long videos, and to do it efficiently."
+
 interests:
   - Video understanding
   - Multimodal LLMs
   - Efficient reasoning
 
 news:
+  - date: Nov 2026
+    datetime: "2026-11"
+    text: 'Released <a href="https://wpr001.github.io/sleuthVLM/"><strong>SleuthVLM</strong></a>: the best average accuracy on four omni benchmarks and the top of the Video-MME-v2 leaderboard. The harness is open-sourced as <a href="https://github.com/WPR001/OpenOmniHarness">OpenOmniHarness</a>.'
+    latest: true
   - date: Oct 2026
     datetime: "2026-10"
     text: "Joined <strong>Ant Group</strong> as a Research Intern."
-    latest: true
   - date: Jan 2026
     datetime: "2026-01"
     text: "One paper accepted at <strong>ICLR 2026</strong>."
@@ -35,22 +40,70 @@ experience:
     role: Research Intern
     period: Oct 2026 — Present
     monogram: A
+    logo: antgroup.png
+    logo_height: 30
     current: true
   - company: Memories.ai Research
     role: AI Research Scientist · Part-time
     period: May 2025 — Oct 2026
     location: USA
     monogram: M
+    logo: memories.svg
+    logo_height: 17
   - company: Toshiba Research Europe
     role: Research Intern
     period: Jun 2024 — Sep 2024
     location: UK
     monogram: T
+    logo: toshiba.svg
+    logo_height: 15
 
 education:
   university: University of Bristol
+  logo: bristol.png
   degree: PhD in Computer Science
   period: Oct 2024 — Present
   location: United Kingdom
   advisor: Prof. Shawn Shen
   advisor_url: https://shawnshenjx.github.io/
+
+# Demo videos. Files live in /videos/ as <file>.mp4 and <file>-poster.jpg.
+demos:
+  - id: sleuthvlm
+    name: SleuthVLM
+    file: sleuthvlm-demo
+    venue: Preprint · 2026
+    title: "Do We Really Need Audio-in-Video for Omni Video Understanding?"
+    text: "A VLM that never hears the audio directly. Speech becomes a word-timed transcript, and the model sleuths the video with a few tools until the evidence decides."
+    caption: "Two LVOmniBench questions on 36- and 59-minute videos, replayed from logged trajectories."
+    stats:
+      - value: "75.0%"
+        label: best average on four omni benchmarks
+      - value: "77.8%"
+        label: top of the Video-MME-v2 leaderboard
+    links:
+      - label: Project
+        url: https://wpr001.github.io/sleuthVLM/
+      - label: Paper
+        url: https://arxiv.org/abs/2611.06083
+      - label: Code
+        url: https://github.com/WPR001/OpenOmniHarness
+  - id: marc
+    name: MARC
+    file: marc-demo
+    venue: ICLR 2026
+    title: "Memory-Augmented RL Token Compression for Efficient Video Understanding"
+    text: "Retrieve, then compress. MARC keeps near-baseline accuracy with the visual tokens of a single frame, so answers arrive sooner."
+    caption: "MARC and Qwen2.5-VL-3B answering the same questions side by side."
+    stats:
+      - value: "95%"
+        label: fewer visual tokens
+      - value: "72%"
+        label: less GPU memory
+    links:
+      - label: Project
+        url: https://yunzeliu.github.io/MARC/
+      - label: Paper
+        url: https://arxiv.org/abs/2510.07915
+      - label: Code
+        url: https://github.com/WPR001/Omni_marc

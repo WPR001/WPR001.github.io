@@ -1,4 +1,32 @@
 # Only add links that are available. Missing code/project links are omitted.
+- title: "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?"
+  featured: true
+  summary: "A VLM that never hears the audio directly achieves the best average accuracy on four omni benchmarks and tops the Video-MME-v2 leaderboard."
+  figure:
+    name: SleuthVLM
+    file: sleuthvlm-method
+    number: 2
+    page: 4
+    width: 900
+    height: 441
+    label: Timed transcript, agentic search, and answering within a budget
+    alt: "SleuthVLM overview: speech becomes a word-timed transcript, a VLM gathers evidence with tools in a sandbox, and it answers within a fixed budget."
+    source: https://arxiv.org/pdf/2611.06083#page=4
+  authors: [Peiran Wu, Fangfei Gou, Zhaoxi Mu, Changhao Zhang, Yuntao Wang, Yuanchun Shi, Weiqiang Wang, Jian Liu, Junxiao Shen]
+  year: 2026
+  venue: Preprint
+  category: preprint
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2611.06083
+    - label: PDF
+      url: https://arxiv.org/pdf/2611.06083
+    - label: Project
+      url: https://wpr001.github.io/sleuthVLM/
+    - label: Code
+      url: https://github.com/WPR001/OpenOmniHarness
+    - label: Demo
+      url: "#demo-sleuthvlm"
 - title: "O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding"
   figure:
     name: O-MARC
@@ -43,6 +71,8 @@
       url: https://github.com/WPR001/Omni_marc
     - label: Project
       url: https://yunzeliu.github.io/MARC/
+    - label: Demo
+      url: "#demo-marc"
 - title: "PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications"
   figure:
     name: PointNet4D
